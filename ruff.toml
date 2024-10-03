@@ -40,6 +40,7 @@ ignore = [
     'COM812',  # missing trailing comma - FORMATTER CONFLICTS
     'ISC001',  # implicit string concat
     'DTZ',     # timezone
+    'TCH',
 ]
 logger-objects = ['mylogger.logger',]
 preview = true

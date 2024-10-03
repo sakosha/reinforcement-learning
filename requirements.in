@@ -1,5 +1,29 @@
 jupyter
+jupyterlab-lsp
+python-lsp-server[all]
+
 numpy
-pandas
+pandas[plot, computation, excel]
+#pandas[performance, plot, computation, excel]
 scipy
 matplotlib
+
+pygame
+
+torch
+jax[cuda12]
+flax
+
+scikit-learn
+scikit-image
+
+gymnasium[accept-rom-license]
+pettingzoo
+supersuit
+
+#stable-baselines3
+#ray[rllib]
+#tensorboard
+#baselines
+#transformers
+#optuna
